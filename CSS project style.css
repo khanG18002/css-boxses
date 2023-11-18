@@ -40,6 +40,10 @@ body{
     top: 3%;
 
 }
+
+.mountain{
+    max-width: 100%;
+}
 .cloud4{
     position: absolute;
     left: 70%;
